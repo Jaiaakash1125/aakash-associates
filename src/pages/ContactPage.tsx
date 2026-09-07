@@ -161,7 +161,7 @@ export function ContactPage() {
               <div className="rounded-2xl overflow-hidden border border-border shadow-card h-80 lg:h-full min-h-72">
                 <iframe
                   title="Aakash Associates Office Location — Ambattur Industrial Estate, Chennai"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.7290647735!2d80.14499!3d13.0987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52636c3eab7fab%3A0x1b2e89e3ab8c3c5e!2sAmbattur+Industrial+Estate!5e0!3m2!1sen!2sin!4v1692000000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1943.2!2d80.1711016!3d13.1028279!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526324fbb504ad%3A0x3082c25b33db7e7c!2sAAKASH+ASSOCIATES!5e0!3m2!1sen!2sin!4v1692000000000!5m2!1sen!2sin"
                   width="100%"
                   height="100%"
                   style={{ border: 0, minHeight: '320px' }}
